@@ -1,11 +1,14 @@
-.button_basic{
-    background-color: black;
-    color: white;
+.button_black,
+.button_yellow{
     font-size: 28px;
-    font: Helvetica, "Times New Roman", sans-serif;
+    font: Helvetica, "Times New Roman", sans-serif
+}
+
+.button_black{
+    background-color:black;
+    color: white;
 }
 
 .button_yellow{
     background-color: yellow;
-    color: black;
 }
